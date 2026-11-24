@@ -23,7 +23,7 @@
 # newest release over the old one.
 
 set -eu
-TORAN_INSTALLER_RELEASE=v0.95.0
+TORAN_INSTALLER_RELEASE=v0.96.0
 
 REGISTRY=https://ghcr.io
 REPOSITORY=toranhq/toran
