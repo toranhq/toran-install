@@ -1,5 +1,5 @@
 # Installs Toran on Windows 11 from toran.run (#2480): irm https://toran.run/install.ps1 | iex
-# TORAN_INSTALLER_RELEASE=v0.99.0
+# TORAN_INSTALLER_RELEASE=v0.100.0
 $ErrorActionPreference = 'Stop'
 $ProgressPreference = 'SilentlyContinue'
 
